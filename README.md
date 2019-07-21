@@ -9,7 +9,9 @@ python 3
 ### Step 2
 ​```
 pip install -r requirements.txt
+​```
 
+​```
 python ./torrentkitty.py
 ​```
 ### Step 3
